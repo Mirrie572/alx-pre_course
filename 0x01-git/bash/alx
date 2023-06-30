@@ -1,9 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "ALX School is so cool!oh welost,"  
-=======
+echo "ALX School is so cool!oh welost," 
 echo "ALX School changes maly" 
->>>>>>> update_script
-=======
-echo "ALX School is open!"  
->>>>>>> parent of 08defa0... Merge branch 'update_script'
+echo "ALX School is open!"
